@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto_Modelos
 {
-    public class Modelos
+    public class Empleados
     {
         public int codigo { get; set; }
         public string nombre { get; set; }
